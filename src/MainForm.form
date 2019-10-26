@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="MainForm">
+  <grid id="27dc6" binding="rootPanel" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="7aca6" class="javax.swing.JLabel" binding="taskAnswer">
+        <constraints/>
+        <properties>
+          <text value="Label"/>
+        </properties>
+      </component>
+      <component id="56f2e" class="javax.swing.JButton" binding="button1" default-binding="true">
+        <constraints/>
+        <properties>
+          <text value="Button"/>
+        </properties>
+      </component>
+      <component id="1b38e" class="javax.swing.JButton" binding="button2" default-binding="true">
+        <constraints/>
+        <properties>
+          <text value="Button"/>
+        </properties>
+      </component>
+      <component id="9802e" class="javax.swing.JButton" binding="button3" default-binding="true">
+        <constraints/>
+        <properties>
+          <text value="Button"/>
+        </properties>
+      </component>
+      <component id="5d194" class="javax.swing.JButton" binding="button4" default-binding="true">
+        <constraints/>
+        <properties>
+          <text value="Button"/>
+        </properties>
+      </component>
+      <component id="313a4" class="javax.swing.JButton" binding="update">
+        <constraints/>
+        <properties>
+          <text value="Update"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
